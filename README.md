@@ -27,7 +27,7 @@
 
 ### 开发环境
 
-* Windows10
+* Windows 10
 - Microsoft Visual Studio 2017
 
 ### 基本原理或技术
